@@ -8,3 +8,6 @@
 **1.支援不同用戶使用：透過FireStore儲存不同用戶的資料**<br>
 **2.翻譯並語音播出：透過Azure Speech結合Gemini進行任意句子的翻譯**<br>
 **3.透過Azure Text Analytics判斷菜單使用語言**
+
+**簡報連結：**<br>
+**https://www.canva.com/design/DAGWsvpuFo0/XTKi7coL0KMjQKu_6Rt91w/view?utm_content=DAGWsvpuFo0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6050de968b**
