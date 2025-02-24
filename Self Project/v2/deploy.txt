@@ -1,0 +1,2 @@
+az webapp up --runtime PYTHON:3.12 --sku F1 --name order-assistant-20250217 --location centralus --resource-group ncku-20241127
+website:http://order-assistant-20250217.azurewebsites.net
